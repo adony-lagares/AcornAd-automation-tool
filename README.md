@@ -66,6 +66,8 @@ Certifique-se de ter os seguintes itens configurados no seu sistema:
 
 ## 🚀 Como Usar
 
+🔹 Caminho do Executável: [https://github.com/adony-lagares/AcornAd-automation-tool/blob/main/dist/automation_script.exe]
+
 ### **1. Prepare o Arquivo de Entrada**
 Crie um arquivo Excel (`.xlsx`) com uma coluna chamada `Keyword`, contendo as palavras-chave que deseja buscar no YouTube.
 
